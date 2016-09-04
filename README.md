@@ -5,3 +5,5 @@ We have added the first version of the barnabas bot Wi-Fi shield. This is versio
 #NodeMCU
 Some information on NodeMCU 1.0 found here: https://github.com/nodemcu/nodemcu-devkit-v1.0
 We have an EAGLE library for NodeMCU if you need to use it. This was developed by NodeMCU and it is also on their NodeMCU devkit v1.0 repository.  
+#V2 
+Some minor edits, added a GPIO header, and fixed some bad wires. Vincent will continue on the board layout.
